@@ -14,28 +14,45 @@ Education
 * Ph.D., RWTH Aachen University, Germany, 2020 - new
 * M.Sc. Computer Science, RWTH Aachen University, Germany, 2016 - 2020
 * B.Sc. Computer Science, Hannover University of Applied Sciences and Arts, Germany, 2013 - 2016
-* M.Sc. Computer Science, Zhejiang University of Science and Technology, China, 2011 - 2013
+* B.Sc. Computer Science, Zhejiang University of Science and Technology, China, 2011 - 2013
 
 Work experience
 ======
-* April 2020: Research Assistant
-  * RWTH Aachen University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant: 2020.04 - 2020.06
+  * RWTH Aachen University, Germany
+  * Software Development of Distributed Analytics Platform
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Internship: 2019.10 - 2020.03
+  * National Institute of Informatics, Japan
+  * Bridge Damage Detection using Computer Vision
+  * Supervisor: Prof. Prendinger
+
+* Research Assistant: 2018.07 - 2019.05 
+  * Werkzeugmaschinenlabor (WZL), Germany
+  * Research project of Interdisciplinary Modeling Language (IML)
+
+* Research Assistant: 2016.06 - 2016.08 
+  * Bosch SoftTec GmbH, Germany
+  * Bachelor Thesis: Chinese voice control of the in-vehicle-smartphone integration solution mySPIN by using Natural Language Processing with Android
+  * Supervisor: Prof. Ahlers
+
+* Teaching Assistant: 2014.09 - 2016.07
+  * University Hannover of Applied Sciences and Arts, Germany
+  * Tutorial of Mathematic 1 and 2: Mathematical Logic, Discrete mathematics and Linear Algebra
+  * Supervisor: Prof. Sprengel
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Program languages
+  * Python, Java, C/C++, Javascript
+* Languages
+  * Chinese (native)
+  * English (fluent)
+  * German (fluent)
+  * Japanese (beginner)
+* General Business Skills
+  * Good presentation skills
+  * Works well in a team
 
 Publications
 ======
@@ -56,7 +73,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 <!--
 Service and leadership
 ======
