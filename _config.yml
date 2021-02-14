@@ -82,21 +82,21 @@ analytics:
 author:
   name             : "Yongli Mou"
   avatar           : "profile.png"
-  bio              : "Research assistant and Ph.D. student at the Chair for Computer Science i5, RWTH Aachen University"
+  bio              : "Ph.D. student at Informatik 5, RWTH Aachen University"
   location         : "Aachen, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  email            : "mou@dbis.rwth-aachen.de"
+  github           : "mouyongli"
+  researchgate     : https://www.researchgate.net/profile/Yongli_Mou2
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mouyongli"
   google_plus      :
   keybase          :
   instagram        :

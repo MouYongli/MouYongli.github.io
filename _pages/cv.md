@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., RWTH Aachen University, Germany, 2020 - new
+* M.Sc. Computer Science, RWTH Aachen University, Germany, 2016 - 2020
+* B.Sc. Computer Science, Hannover University of Applied Sciences and Arts, Germany, 2013 - 2016
+* M.Sc. Computer Science, Zhejiang University of Science and Technology, China, 2011 - 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* April 2020: Research Assistant
+  * RWTH Aachen University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -42,11 +43,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
+-->
   
 Teaching
 ======
@@ -54,6 +57,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams 
+-->
