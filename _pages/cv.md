@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D., RWTH Aachen University, Germany, 2020 - new
+* Ph.D., RWTH Aachen University, Germany, 2020 - now
 * M.Sc. Computer Science, RWTH Aachen University, Germany, 2016 - 2020
 * B.Sc. Computer Science, Hannover University of Applied Sciences and Arts, Germany, 2013 - 2016
 * B.Sc. Computer Science, Zhejiang University of Science and Technology, China, 2011 - 2013
 
-Work experience
+Work Experience
 ======
 * Research Assistant: 2020.04 - 2020.06
   * RWTH Aachen University, Germany
