@@ -86,11 +86,9 @@ author:
   location         : "Aachen, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mou@dbis.rwth-aachen.de"
+  uri              : "http://dbis.rwth-aachen.de/cms/staff/yongli-mou"
   github           : "mouyongli"
-  researchgate     : https://www.researchgate.net/profile/Yongli_Mou2
-  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +100,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mouyongli/"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-NpkhIUAAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Yongli_Mou2"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
