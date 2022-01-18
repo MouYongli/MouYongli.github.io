@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Short Descriptioin
+======
+Hi, I am Yongli Mou. Now, I am Ph.D. candidate supervised by Prof. Dr. Stefan Decker and co-supervised by Prof. Dr. Oya Beyan and work as a research assistant at the Chair of Computer Science i5 Databases and Information Systems (Informatik 5, DBIS) at RWTH Aachen University since July 2020. My current research focuses on the theories and applications of artificial intelligence in medical and healthcare sector (e.g., federated learning, privacy enhancing technologies and blockchain applications).
+
 Education
 ======
 * Ph.D., RWTH Aachen University, Germany, 2020 - now
