@@ -62,6 +62,19 @@ Skills
   * Good presentation skills
   * Works well in a team
 
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<!--
+Service and leadership
+======
+* Currently signed in to 43 different slack teams 
+-->
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
