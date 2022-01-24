@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yongli Mou"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Informatik 5, RWTH Aachen University"
+  bio              : "Ph.D. student in Computer Science at RWTH Aachen University, Germany"
   location         : "Aachen, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "mou@dbis.rwth-aachen.de"
-  uri              : "http://dbis.rwth-aachen.de/cms/staff/yongli-mou"
+  uri              : "https://dbis.rwth-aachen.de/dbis/index.php/user/mou/"
   github           : "mouyongli"
   bitbucket        :
   codepen          :
