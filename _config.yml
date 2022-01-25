@@ -190,7 +190,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  new:
+  news:
     output: true
     permalink: /:collection/:path/
 
