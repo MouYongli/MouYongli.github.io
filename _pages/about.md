@@ -16,24 +16,6 @@ News
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
 Education
 ======
 * Ph.D., RWTH Aachen University, Germany, 2020 - now
@@ -54,7 +36,25 @@ Work Experience
 
 * Research Assistant: 2018.07 - 2019.05 
   * Werkzeugmaschinenlabor (WZL), Germany
-  * Research project of Interdisciplinary Modeling Language
+  * Research project of Interdisciplinary Modeling Language  
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
