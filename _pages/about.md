@@ -12,8 +12,28 @@ Hi, I am Yongli Mou. Now, I am Ph.D. candidate supervised by Prof. Dr. Stefan De
 
 News
 ======
-AISpace team, including Yongli Mou (as team leader), Jiahui Geng, Xiaoli Yang, Shijie Nie, Chunmiao Li, Yongzhao Li and Lucas Regh, won the best technical implementation award and won the industry challenge at the Blockchain Hackathon 2021. we presented the idea to combine blockchain, federated learning and privacy enhancing technologies to overcome the data privacy challenges in AI, to build an AI digital asset marketplace, to connect data owners, data users, algorithm developers, algorithm users and computing providers, to encourage the corporation between AI service participants, and to establish the decentralized, autonomous and trustworthy AI infrastructure network.
+  <ul>{% for post in site.news %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
 Education
 ======
 * Ph.D., RWTH Aachen University, Germany, 2020 - now
@@ -48,22 +68,3 @@ Skills
 * General Business Skills
   * Good presentation skills
   * Works well in a team
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
