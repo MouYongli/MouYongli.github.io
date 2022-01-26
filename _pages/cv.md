@@ -13,10 +13,6 @@ Short Descriptioin
 ======
 Hi, I am Yongli Mou. Now, I am Ph.D. candidate supervised by Prof. Dr. Stefan Decker and co-supervised by Prof. Dr. Oya Beyan and work as a research assistant at the Chair of Computer Science i5 Databases and Information Systems (Informatik 5, DBIS) at RWTH Aachen University since July 2020. My current research focuses on the theories and applications of artificial intelligence in medical and healthcare sector (e.g., federated learning, privacy enhancing technologies and blockchain applications).
 
-News
-======
-AISpace team, including Yongli Mou, Jiahui Geng, Xiaoli Yang, Shijie Nie, Chunmiao Li, Yongzhao Li and Lucas Regh, won the best technical implementation award and won the industry challenge at the [Blockchain Hackathon 2021](https://www.blockchain-hackathon.de/). we presented the idea to combine blockchain, federated learning and privacy enhancing technologies to overcome the data privacy challenges in AI, to build an AI digital asset marketplace, to connect data owners, data users, algorithm developers, algorithm users and computing providers, to encourage the corporation between AI service participants, and to establish the decentralized, autonomous and trustworthy AI infrastructure network.
-
 Education
 ======
 * Ph.D., RWTH Aachen University, Germany, 2020 - now
@@ -61,6 +57,12 @@ Skills
 * General Business Skills
   * Good presentation skills
   * Works well in a team
+
+News
+======
+  <ul>{% for post in site.news %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Projects
 ======
