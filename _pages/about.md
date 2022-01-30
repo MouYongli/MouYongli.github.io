@@ -15,6 +15,24 @@ News
   <ul>{% for post in site.news %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Education
 ======
@@ -38,24 +56,6 @@ Work Experience
   * Werkzeugmaschinenlabor (WZL), Germany
   * Research project of Interdisciplinary Modeling Language  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Skills
 ======
 * Program languages
