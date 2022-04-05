@@ -14,5 +14,5 @@ citation: 'Mou Y, Welten S, Jaberansary M, Yediel YU, Kirsten T, Decker S, Beyan
 [Download paper here](https://pubmed.ncbi.nlm.nih.gov/34042764/)
 
 <!-- 
-Recommended citation: Deng W, Mou Y, Kashiwa T, Escalera S, Nagai K, Nakayama K, Matsuo Y, Prendinger H. (2020). "Vision based pixel-level bridge structural damage detection using a link ASPP network." <i>Automation in Construction</i>. 110, 102973. 
+Recommended citation: Mou Y, Welten S, Jaberansary M, Yediel YU, Kirsten T, Decker S, Beyan O. "Distributed Skin Lesion Analysis Across Decentralised Data Sources." <i>Studies in health technology and informatics</i>. 2021 May 27;281:352-6. 
 -->
