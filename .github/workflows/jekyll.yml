@@ -22,7 +22,7 @@ jobs:
           ${{ runner.os }}-gems-
     - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
       with:                                # Some relative inputs of your action
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.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 }}
     
 #     - name: Build the site in the jekyll/builder container
 #       run: |
